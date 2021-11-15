@@ -1,0 +1,15 @@
+.heading-of-homepage{
+    font-size: 2.5em;
+    font-family: "Dongle" sans-serif;
+    font-weight :600;
+    color: rgb(19, 99, 102);
+}
+hr{
+    border-top: 3px solid rgb(19, 99, 102);
+}
+.btn{
+    box-shadow: -2px 5px 5px 0px rgba(41, 40, 40, 0.75);
+    font-size: 1.2em;
+    font-family: "Dongle" sans-serif;
+    font-weight :600;
+}
